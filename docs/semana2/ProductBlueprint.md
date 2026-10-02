@@ -81,9 +81,9 @@ Flujo de cambio de USDC a efectivo (cash-out). Roles: **usuario** (vende USDC, r
 
 ## 5. Lean Canvas
 
-**Enlace al Lean Canvas (obligatorio):** [Lean Canvas del proyecto](https://escriban-aqui-el-enlace)
+**Enlace al Lean Canvas (obligatorio):** [Lean Canvas del proyecto](https://github.com/vallejoraul08-debug/ProyectoBase/blob/main/docs/semana2/LeanCanvas.svg)
 
-*(Pendiente: pasar este contenido a una imagen o lienzo y enlazarlo.)*
+![Lean Canvas de MicoPay](LeanCanvas.svg)
 
 | Bloque | Contenido |
 | --- | --- |
